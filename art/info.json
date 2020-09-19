@@ -32,7 +32,7 @@
     "size": "14\" x 17\""
   },
   {
-    "name": "Rubik's cube",
+    "name": "Polar bear",
     "description": "",
     "file": "IMG_2104.jpeg",
     "originalPrice": "$400",
@@ -139,6 +139,14 @@
     "name": "Green bubbles",
     "description": "",
     "file": "IMG_2366.jpeg",
+    "originalPrice": "$400",
+    "printPrice": "$280",
+    "size": "14\" x 17\""
+  },
+  {
+    "name": "Rubix cube",
+    "description": "",
+    "file": "IMG_2209.jpeg",
     "originalPrice": "$400",
     "printPrice": "$280",
     "size": "14\" x 17\""
