@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc *.ts",
-    "generate": "node run generateHtml.js && for f in ./*; do magick convert $f -resize 350x520 $f; done"
+    "generate": "node generateHtml.js && for f in art/img/*; do magick convert $f -resize 350x520 \"assets/img/art/${f##*/}\"; done"
   },
   "repository": {
     "type": "git",
