@@ -1,5 +1,13 @@
 [
   {
+    "name": "Memory",
+    "description": "",
+    "file": "IMG_2771.jpeg",
+    "originalPrice": "sold",
+    "printPrice": "$280",
+    "size": "14\" x 17\""
+  },
+  {
     "name": "Pig piñata",
     "description": "",
     "file": "9CD3380D-1A8A-4ECD-B979-064A355BA2AC.jpeg",
@@ -211,7 +219,7 @@
     "name": "Color projector",
     "description": "",
     "file": "IMG_2679.jpeg",
-    "originalPrice": "$500",
+    "originalPrice": "$700",
     "printPrice": "",
     "size": "48\" x 36\" framed canvas"
   },
