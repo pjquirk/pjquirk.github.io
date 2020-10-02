@@ -27,7 +27,9 @@ const thumbnails = imageInfo.map(image => {
         ? "<span class=\"not-available text-muted\">Original</span>"
         : `<span>Original: ${image.originalPrice}</span>`;
 
-    const printPrice = image.printPrice && `<span>Print: ${image.printPrice}</span>`;
+    const printPrice = image.printPrice == "sold" || image.printPrice == "nfs"
+        ? "<span class=\"not-available text-muted\">Print</span>"
+        : `<span>Print: ${image.printPrice}</span>`;
 
     return `
     <div class="col-md-4">

@@ -19,7 +19,9 @@ var thumbnails = imageInfo.map(function (image) {
     var originalPrice = image.originalPrice == "sold" || image.originalPrice == "nfs"
         ? "<span class=\"not-available text-muted\">Original</span>"
         : "<span>Original: " + image.originalPrice + "</span>";
-    var printPrice = image.printPrice && "<span>Print: " + image.printPrice + "</span>";
+    var printPrice = image.printPrice == "sold" || image.printPrice == "nfs"
+        ? "<span class=\"not-available text-muted\">Print</span>"
+        : "<span>Print: " + image.printPrice + "</span>";
     return "\n    <div class=\"col-md-4\">\n      <div class=\"card mb-4 box-shadow\">\n        <img class=\"card-img-top\" src=\"" + (htmlImageDir + "/" + image.file) + "\" alt=\"" + image.name + "\">\n        <div class=\"card-body\">\n          " + title + "\n          <p class=\"card-text\">" + image.description + "</p>\n          <div class=\"d-flex justify-content-between align-items-center\">\n            " + originalPrice + "\n            " + printPrice + "\n            <small class=\"text-muted\">" + image.size + "</small>\n          </div>\n        </div>\n      </div>\n    </div>\n    ";
 });
 console.log("Generating template");
