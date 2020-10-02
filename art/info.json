@@ -4,7 +4,7 @@
     "description": "",
     "file": "heart.jpeg",
     "originalPrice": "sold",
-    "printPrice": "$150",
+    "printPrice": "$200",
     "size": "14\" x 17\""
   },
   {
@@ -12,8 +12,16 @@
     "description": "",
     "file": "7D1A4A8B-00CE-4F72-B622-40DEDE8111E8.JPG",
     "originalPrice": "$400",
-    "printPrice": "$150",
-    "size": "14\" x 27\""
+    "printPrice": "$200",
+    "size": "14\" x 17\""
+  },
+  {
+    "name": "Good bye Pardison",
+    "description": "",
+    "file": "IMG_3040.jpeg",
+    "originalPrice": "$150",
+    "printPrice": "nfs",
+    "size": "14\" x 17\""
   },
   {
     "name": "Memory",
