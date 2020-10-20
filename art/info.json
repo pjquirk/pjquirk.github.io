@@ -1,5 +1,37 @@
 [
   {
+    "name": "Poppins",
+    "description": "",
+    "file": "IMG_3250.jpeg",
+    "originalPrice": "$400",
+    "printPrice": "$200",
+    "size": "14\" x 17\""
+  },
+  {
+    "name": "Elephant with volcano",
+    "description": "",
+    "file": "IMG_3284.jpeg",
+    "originalPrice": "$400",
+    "printPrice": "$200",
+    "size": "14\" x 17\""
+  },
+  {
+    "name": "Octopus",
+    "description": "",
+    "file": "IMG_3287.jpeg",
+    "originalPrice": "$500",
+    "printPrice": "sold",
+    "size": "14\" x 17\""
+  },
+  {
+    "name": "Elephant with sun",
+    "description": "",
+    "file": "IMG_3297.jpeg",
+    "originalPrice": "$400",
+    "printPrice": "$200",
+    "size": "14\" x 17\""
+  },
+  {
     "name": "Heart",
     "description": "",
     "file": "heart.jpeg",
