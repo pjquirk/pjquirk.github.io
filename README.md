@@ -1,5 +1,7 @@
 # pjquirk.github.io
 
+This is my public site for my personal development portfolio. It's probably mostly generated, I'm not that good at frontend design :)
+
 ## Prompt for creating this site
 
 I'm creating a static website to show my personal and professional projects, focusing with those that are hosted in GitHub.
