@@ -8,7 +8,7 @@ I'm creating a static website to show my personal and professional projects, foc
 
 Create the full site, populating the information for the projects and background listed below. Also include a skills section.
 
-The site should be vaporwave themed, modern, with some short animation or hover effects when possible.
+The site should be vaporwave themed, modern, with some short animation or hover effects when possible. Reduce the contrast between theme colors so it's easy on the eyes, but keep the text readable.
 
 ### About me
 
