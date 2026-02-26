@@ -81,6 +81,11 @@ official timing and scoring for ESPN’s X Games.
 - https://github.com/pjquirk/italy-hotel-checker
 - https://github.com/pjquirk/libcurl.NET
 
+#### Contributions
+
+- Reported bugs to Moq: https://github.com/devlooped/moq/issues?q=is%3Aissue%20state%3Aclosed%20author%3Apjquirk
+- Reported bugs to NUnit: https://github.com/nunit/nunit/issues?q=is%3Aissue%20state%3Aclosed%20author%3Apjquirk
+
 ### Contact information
 
 - GitHub: https://github.com/pjquirk
